@@ -124,6 +124,7 @@ The LPG-Parent mobile application acts as the central interface for LPG monitori
 
 <p align="center">
   <img src="assets/image6.jpeg" width="75%" />
+  <img src="assets/pr.jpeg" width="75"/>
 </p>
 
 The hardware prototype integrates sensors, controllers, and an automated safety mechanism to monitor LPG cylinder conditions and respond to potential leakage.
