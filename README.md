@@ -1,4 +1,4 @@
-#  LPG-Parent
+# LPG-Parent
 ### Smart LPG Monitoring & Safety System
 
 <p align="center">
@@ -96,9 +96,20 @@ flowchart TD
 - Simple Statistics
 - Linear Regression for consumption prediction
 
-## 📱 Application Features
+## 📱 Application Screenshots
 
-The mobile application acts as the central interface for LPG monitoring.
+<p align="center">
+  <img src="assets/image1.jpeg" width="30%" />
+  <img src="assets/image2.jpeg" width="30%" />
+  <img src="assets/image3.jpeg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="assets/image4.jpeg" width="30%" />
+  <img src="assets/image5.jpeg" width="30%" />
+</p>
+
+The LPG-Parent mobile application acts as the central interface for LPG monitoring.
 
 - Live cylinder weight monitoring.
 - Gas leakage status and safety alerts.
@@ -109,11 +120,13 @@ The mobile application acts as the central interface for LPG monitoring.
 - Chatbot interaction for LPG-related information.
 - Push notifications for important events.
 
+## 🔧 Hardware Prototype
+
 <p align="center">
-  <em>Application screenshots coming soon.</em>
+  <img src="assets/image6.jpeg" width="75%" />
 </p>
 
-<!-- Add screenshots in the assets/screenshots directory -->
+The hardware prototype integrates sensors, controllers, and an automated safety mechanism to monitor LPG cylinder conditions and respond to potential leakage.
 
 ## 🧠 Intelligent Gas Consumption Prediction
 
@@ -200,6 +213,14 @@ LPG-Parent/
 │
 ├── android/
 ├── ios/
+├── assets/
+│   ├── image1.jpeg
+│   ├── image2.jpeg
+│   ├── image3.jpeg
+│   ├── image4.jpeg
+│   ├── image5.jpeg
+│   └── image6.jpeg
+│
 ├── screens/
 │   ├── AddDeviceScreen.tsx
 │   ├── BookingScreen.tsx
