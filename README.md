@@ -124,6 +124,10 @@ The LPG-Parent mobile application acts as the central interface for LPG monitori
 
 <p align="center">
   <img src="assets/image6.jpeg" width="75%" />
+  
+</p>
+<p align="center">
+ 
   <img src="assets/pr.jpeg" width="75"/>
 </p>
 
